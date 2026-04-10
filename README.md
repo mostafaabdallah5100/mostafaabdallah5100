@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abdallah</h1>
 <h3 align="center">A passionate data scientist and machine learning engineer</h3>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 
@@ -16,6 +15,7 @@
 
 - 📫 How to reach me **mostafaabdallah5100@gmail.com**
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mostafa-abdallah-506962356" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="www.linkedin.com/in/mostafa-abdallah-506962356" height="40" width="40" /></a>
