@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!<img align="center" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif " width="50" height="50">, I'm Mostafa Abdallah</h1>
+<h1 align="center">Hello World!<img align="center" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif " width="30" height="30">, I'm Mostafa Abdallah</h1>
 <h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif " width="40" height="40">A passionate data scientist and machine learning engineer <img align="center" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="40" height="40"></h3>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
