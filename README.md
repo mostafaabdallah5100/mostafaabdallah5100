@@ -25,9 +25,9 @@
 </p>
 
 
-<h3 align="right">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="right">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   </a>
